@@ -4,7 +4,8 @@
     "display": "Node 18",
 
     "compilerOptions": {
-        "outDir": "./dist"
+        "outDir": "./dist",
+        "sourceMap": true
     },
     "include": ["./src/**/*.ts"],
     "exclude": ["./src/**/*.test.ts"]
